@@ -10,4 +10,6 @@
 # PROCESS-NAME: 0
 # TOTAL: 2
 DOMAIN,sessions.bugsnag.com
-DOMAIN-SUFFIX,sessions.bugsnag.com
+DOMAIN-SUFFIX,bugsnag.com
+DOMAIN,cacerts.digicert.com
+DOMAIN-SUFFIX,digicert.com
