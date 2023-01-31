@@ -1,14 +1,14 @@
 # NAME: Netflix
 # AUTHOR: yleaway
 # REPO: https://github.com/yleaway/Clash-Rules/
-# UPDATED: 2023-01-31 14:47:24
-# DOMAIN: 1
+# UPDATED: 2023-01-31
+# DOMAIN: 2
 # DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 1
+# DOMAIN-SUFFIX: 2
 # IP-CIDR: 
 # IP-CIDR6: 0
 # PROCESS-NAME: 0
-# TOTAL: 2
+# TOTAL: 4
 DOMAIN,sessions.bugsnag.com
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN,cacerts.digicert.com
