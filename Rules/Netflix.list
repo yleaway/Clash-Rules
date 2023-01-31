@@ -2,14 +2,16 @@
 # AUTHOR: yleaway
 # REPO: https://github.com/yleaway/Clash-Rules/
 # UPDATED: 2023-01-31
-# DOMAIN: 2
+# DOMAIN: 3
 # DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 2
+# DOMAIN-SUFFIX: 3
 # IP-CIDR: 
 # IP-CIDR6: 0
 # PROCESS-NAME: 0
-# TOTAL: 4
+# TOTAL: 6
 DOMAIN,sessions.bugsnag.com
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN,cacerts.digicert.com
 DOMAIN-SUFFIX,digicert.com
+DOMAIN,collections.mp.microsoft.com
+DOMAIN-SUFFIX,collections.mp.microsoft.com
