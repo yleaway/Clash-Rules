@@ -1,19 +1,12 @@
 # NAME: Netflix-Extra
 # AUTHOR: yleaway
 # REPO: https://github.com/yleaway/Clash-Rules/
-# UPDATED: 2023-01-31
-# DOMAIN: 3
+# UPDATED: 2023-05-04
+# DOMAIN: 1
 # DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 3
+# DOMAIN-SUFFIX: 0
 # IP-CIDR: 0
 # IP-CIDR6: 0
 # PROCESS-NAME: 0
-# TOTAL: 6
-DOMAIN,sessions.bugsnag.com
-DOMAIN,cacerts.digicert.com
-DOMAIN,collections.mp.microsoft.com
-DOMAIN,prod.do.dsp.mp.microsoft.com
-DOMAIN-SUFFIX,bugsnag.com
-DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,collections.mp.microsoft.com
-DOMAIN-SUFFIX,prod.do.dsp.mp.microsoft.com
+# TOTAL: 61
+DOMAIN,cdn.cookielaw.org
