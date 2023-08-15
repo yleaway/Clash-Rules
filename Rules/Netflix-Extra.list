@@ -10,3 +10,8 @@
 # PROCESS-NAME: 0
 # TOTAL: 61
 DOMAIN,cdn.cookielaw.org
+DOMAIN,e13252.dscg.akamaiedge.net 
+DOMAIN,h-netflix.online-metrix.net 
+DOMAIN,netflix.com.edgesuite.net 
+DOMAIN-SUFFIX,onetrust.com 
+DOMAIN-SUFFIX,cookielaw.org
