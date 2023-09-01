@@ -18,7 +18,7 @@ use: &use
 proxy-providers:
   provider1:
     <<: *p
-    url: ""
+    url: "https://foraway.netlify.app/"
 
   provider2:
     <<: *p
