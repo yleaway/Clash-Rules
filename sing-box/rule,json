@@ -19,8 +19,7 @@
     "servers": [
       {
         "tag": "proxyDns",
-        "address": "tls://1.1.1.1",
-        "detour": "🐟 fish"
+        "address": "tls://1.1.1.1"
       },
       {
         "tag": "localDns",
