@@ -27,8 +27,6 @@ dns:
     - "*.local"
     - time.windows.com
   nameserver-policy:
-    "rule-set:📺 奈飞视频":
+    "geosite:Netflix":
       - https://1.1.1.1/dns-query
       - https://8.8.8.8/dns-query
-    "rule-set:🤖 OpenAI":
-      - https://1.1.1.1/dns-query
