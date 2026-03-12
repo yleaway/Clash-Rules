@@ -7,9 +7,7 @@ external-controller: '127.0.0.1:9090'
 
 dns:
   enable: true
-  ipv6: false
   enhanced-mode: fake-ip
-  fake-ip-range: 198.18.0.1/16
   nameserver:
     - https://223.5.5.5/dns-query
     - https://1.12.12.12/dns-query
@@ -17,16 +15,3 @@ dns:
   fallback:
     - https://8.8.8.8/dns-query
     - https://1.1.1.1/dns-query
-  proxy-server-nameserver:
-    - https://223.5.5.5/dns-query
-  fallback-filter:
-    geoip: true
-    geoip-code: CN
-  fake-ip-filter:
-    - "*.lan"
-    - "*.local"
-    - time.windows.com
-  nameserver-policy:
-    "geosite:Netflix":
-      - https://1.1.1.1/dns-query
-      - https://8.8.8.8/dns-query
